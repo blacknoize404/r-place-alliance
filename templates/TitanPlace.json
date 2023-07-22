@@ -7,6 +7,12 @@
       "sources": ["https://raw.githubusercontent.com/TITANPLACE/overlay/main/floch.png"],
       "x": 1169,
       "y": 490
+    },
+    {
+      "name": "TITANPLACE Art 2",
+      "sources": ["https://raw.githubusercontent.com/TITANPLACE/overlay/main/ereh.png"],
+      "x": 407,
+      "y": 251
     }
   ],
   "whitelist": [
