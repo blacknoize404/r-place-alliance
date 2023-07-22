@@ -1,0 +1,19 @@
+{
+  "faction": "Lain",
+  "contact": "https://discord.gg/Hub6DXsfCH",
+  "templates": [
+    {
+      "name": "Lain Art 1",
+      "sources": ["https://cdn.discordapp.com/attachments/1132013033271607403/1132202016899342417/image.png"],
+      "x": 675,
+      "y": 475
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "/r/EightySix",
+      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/86Place.json"
+    }
+  ],
+  "blacklist": []
+}
