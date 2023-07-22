@@ -1,0 +1,35 @@
+{
+  "faction": "/r/EightySix/",
+  "contact": "https://discord.gg/EightySix",
+  "templates": [
+    {
+      "name": "86: Eighty Six Art 1",
+      "sources": ["https://imgur.com/3K63542.png"],
+      "x": 618,
+      "y": 488
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "/r/Vivy",
+      "url": "https://rentry.co/VivyPlace2023/raw"
+    },
+    {
+      "name": "Steins;Gate/",
+      "url": "https://r-steins-place.pages.dev/overlay.json"
+    },
+    {
+      "name": "TITANPLACE",
+      "url": "https://raw.githubusercontent.com/TITANPLACE/overlay/main/titanplace-overlay"
+    },
+    {
+      "name": "/r/5ToubunNoHanayome/",
+      "url": "https://rentry.co/QuintsPlace/raw"
+    },
+    {
+      "name": "/r/Corridor",
+      "url": "https://rentry.co/CorridorPlace2023/raw"
+    }
+  ],
+  "blacklist": []
+}
