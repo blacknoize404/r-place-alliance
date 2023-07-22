@@ -1,0 +1,19 @@
+{
+  "faction": "/r/Vivy",
+  "contact": "https://discord.com/invite/V6n7NSVRCE",
+  "templates": [
+    {
+      "name": "Vivy Art",
+      "sources": ["https://i.imgur.com/BwiqOBY.png"],
+      "x": 598,
+      "y": 488
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "/r/EightySix",
+      "url": "https://rentry.co/86Place2023/raw"
+    }
+  ],
+  "blacklist": []
+}
