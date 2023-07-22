@@ -12,7 +12,7 @@
   "whitelist": [
     {
       "name": "/r/EightySix",
-      "url": "https://rentry.co/86Place2023/raw"
+      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/86Place.json"
     }
   ],
   "blacklist": []
