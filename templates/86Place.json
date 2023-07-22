@@ -33,10 +33,6 @@
     {
       "name": "JVNE",
       "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/JVNEPlace.json"
-    },
-    {
-      "name": "Steins;Gate",
-      "url": "https://r-steins-place.pages.dev/overlay.json"
     }
   ],
   "blacklist": []
