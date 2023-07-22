@@ -1,0 +1,19 @@
+{
+  "faction": "TITANPLACE",
+  "contact": "https://discord.gg/x8h52ZnB4E",
+  "templates": [
+    {
+      "name": "TITANPLACE Art 1",
+      "sources": ["https://raw.githubusercontent.com/TITANPLACE/overlay/main/floch.png"],
+      "x": 669,
+      "y": 490
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "/r/EightySix",
+      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/86Place.json"
+    }
+  ],
+  "blacklist": []
+}
