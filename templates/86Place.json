@@ -27,6 +27,10 @@
       "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/CorridorPlace.json"
     },
     {
+      "name": "Lain",
+      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/LainPlace.json"
+    },
+    {
       "name": "Steins;Gate",
       "url": "https://r-steins-place.pages.dev/overlay.json"
     },
