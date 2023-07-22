@@ -4,43 +4,9 @@
   "templates": [
     {
       "name": "86: Eighty Six Art 1",
-      "sources": ["{
-  "faction": "86: Eighty Six",
-  "contact": "https://discord.gg/EightySix",
-  "templates": [
-    {
-      "name": "86: Eighty Six Art 1",
-      "sources": ["https://i.imgur.com/YdW8yfp.png"],
+      "sources": ["https://i.imgur.com/VPBSaoq.png"],
       "x": 1118,
-      "y": 490
-    }
-  ],
-  "whitelist": [
-    {
-      "name": "Vivy: Fluorite Eye's Song",
-      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/VivyPlace.json"
-    },
-    {
-      "name": "5 Toubun No Hanayome",
-      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/QuintsPlace.json"
-    },
-    {
-      "name": "Corridor",
-      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/CorridorPlace.json"
-    },
-    {
-      "name": "Lain",
-      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/LainPlace.json"
-    },
-    {
-      "name": "JVNE",
-      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/JVNEPlace.json"
-    }
-  ],
-  "blacklist": []
-}"],
-      "x": 1118,
-      "y": 490
+      "y": 488
     }
   ],
   "whitelist": [
