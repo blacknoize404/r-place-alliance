@@ -25,14 +25,6 @@
     {
       "name": "Corridor",
       "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/CorridorPlace.json"
-    },
-    {
-      "name": "Lain",
-      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/LainPlace.json"
-    },
-    {
-      "name": "JVNE",
-      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/JVNEPlace.json"
     }
   ],
   "blacklist": []
