@@ -6,13 +6,13 @@
       "name": "TITANPLACE Art 1",
       "sources": ["https://raw.githubusercontent.com/TITANPLACE/overlay/main/floch.png"],
       "x": 1169,
-      "y": 991
+      "y": 990
     },
     {
       "name": "TITANPLACE Art 2",
       "sources": ["https://raw.githubusercontent.com/TITANPLACE/overlay/main/ereh.png"],
       "x": 406,
-      "y": 751
+      "y": 750
     }
   ],
   "whitelist": [
