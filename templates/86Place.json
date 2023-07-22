@@ -11,25 +11,25 @@
   ],
   "whitelist": [
     {
-      "name": "/r/Vivy",
-      "url": "https://rentry.co/VivyPlace2023/raw"
-    },
-    {
-      "name": "Steins;Gate/",
-      "url": "https://r-steins-place.pages.dev/overlay.json"
+      "name": "Vivy: Fluorite Eye's Song",
+      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/VivyPlace.json"
     },
     {
       "name": "TITANPLACE",
-      "url": "https://raw.githubusercontent.com/TITANPLACE/overlay/main/titanplace-overlay"
+      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/TitanPlace.json"
     },
     {
-      "name": "/r/5ToubunNoHanayome/",
-      "url": "https://rentry.co/QuintsPlace/raw"
+      "name": "5 Toubun No Hanayome",
+      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/QuintsPlace.json"
     },
     {
-      "name": "/r/Corridor",
-      "url": "https://rentry.co/CorridorPlace2023/raw"
-    }
+      "name": "Corridor",
+      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/CorridorPlace.json"
+    },
+    {
+      "name": "Steins;Gate",
+      "url": "https://r-steins-place.pages.dev/overlay.json"
+    },
   ],
   "blacklist": []
 }
