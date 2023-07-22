@@ -1,9 +1,9 @@
 {
-  "faction": "/r/Vivy",
+  "faction": "Vivy: Fluorite Eye's Song",
   "contact": "https://discord.com/invite/V6n7NSVRCE",
   "templates": [
     {
-      "name": "Vivy Art",
+      "name": "Vivy Art 1",
       "sources": ["https://i.imgur.com/BwiqOBY.png"],
       "x": 598,
       "y": 488
