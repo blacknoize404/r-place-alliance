@@ -21,6 +21,10 @@
     {
       "name": "Corridor",
       "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/CorridorPlace.json"
+    },
+    {
+      "name": "LVNE",
+      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/LVNEPlace.json"
     }
   ],
   "blacklist": []
