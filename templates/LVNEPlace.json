@@ -9,6 +9,14 @@
       ],
       "x": 1197,
       "y": 1017
+    },
+    {
+      "name": "LVNE Art 2",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132013033271607403/1132761504308023336/image.png"
+      ],
+      "x": -317,
+      "y": -813
     }
   ],
   "whitelist": [
