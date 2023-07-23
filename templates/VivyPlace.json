@@ -13,10 +13,6 @@
     {
       "name": "/r/EightySix",
       "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/86Place.json"
-    },
-    {
-      "name": "SteinsPlace",
-      "url": "https://r-steins-place.pages.dev/overlay.json"
     }
   ],
   "blacklist": []

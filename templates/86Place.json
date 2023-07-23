@@ -6,7 +6,7 @@
       "name": "86: Eighty Six Art 1",
       "sources": ["https://i.imgur.com/YIPxtLd.png"],
       "x": 1118,
-      "y": 490
+      "y": 990
     }
   ],
   "whitelist": [
@@ -17,10 +17,6 @@
     {
       "name": "TITANPLACE",
       "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/TitanPlace.json"
-    },
-    {
-      "name": "5 Toubun No Hanayome",
-      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/QuintsPlace.json"
     },
     {
       "name": "Corridor",
