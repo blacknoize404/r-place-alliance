@@ -1,0 +1,21 @@
+{
+  "faction": "LVNE",
+  "contact": "https://discord.gg/MMvB6GEb9U",
+  "templates": [
+    {
+      "name": "LVNE Art 1",
+      "sources": [
+        "https://media.discordapp.net/attachments/1132013033271607403/1132219791004930099/JVNE.png?width=46&height=40"
+      ],
+      "x": 1198,
+      "y": 1016
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "/r/EightySix",
+      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/86Place.json"
+    }
+  ],
+  "blacklist": []
+}
