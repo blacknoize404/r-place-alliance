@@ -3,10 +3,16 @@
   "contact": "https://discord.com/invite/V6n7NSVRCE",
   "templates": [
     {
-      "name": "Vivy Art 1",
+      "name": "Vivy Art Main",
       "sources": ["https://i.imgur.com/vGpmPa0.png"],
       "x": 1098,
       "y": 990
+    },
+    {
+      "name": "Vivy Art Standing",
+      "sources": ["https://i.imgur.com/G2RkO65.png"],
+      "x": 1,
+      "y": 849
     }
   ],
   "whitelist": [
@@ -15,5 +21,6 @@
       "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/86Place.json"
     }
   ],
-  "blacklist": []
+  "blacklist": [
+  ]
 }
