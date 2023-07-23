@@ -25,6 +25,10 @@
     {
       "name": "LVNE",
       "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/LVNEPlace.json"
+    },
+    {
+      "name": "Puerto Rico",
+      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/PuertoRico.json"
     }
   ],
   "blacklist": []
