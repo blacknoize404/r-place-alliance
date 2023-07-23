@@ -1,0 +1,21 @@
+{
+  "faction": "Puerto Rico",
+  "contact": "https://discord.gg/hR7vextJ",
+  "templates": [
+    {
+      "name": "PuertoRico Art 1",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132013033271607403/1132761504308023336/image.png"
+      ],
+      "x": 1118,
+      "y": 974
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "/r/EightySix",
+      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/86Place.json"
+    }
+  ],
+  "blacklist": []
+}
