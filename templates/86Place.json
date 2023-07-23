@@ -11,6 +11,10 @@
   ],
   "whitelist": [
     {
+      "name": "Vivy: Fluorite Eye's Song",
+      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/VivyPlace.json"
+    },
+    {
       "name": "TITANPLACE",
       "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/TitanPlace.json"
     },
