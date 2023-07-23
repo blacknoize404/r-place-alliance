@@ -4,7 +4,7 @@
   "templates": [
     {
       "name": "TITANPLACE Art 1",
-      "sources": ["https://i.imgur.com/0sjiPds.png"],
+      "sources": ["https://raw.githubusercontent.com/TITANPLACE/overlay/main/floch.png"],
       "x": 1169,
       "y": 990
     },
