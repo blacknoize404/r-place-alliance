@@ -13,12 +13,6 @@
       "sources": ["https://raw.githubusercontent.com/TITANPLACE/overlay/main/ereh.png"],
       "x": 406,
       "y": 750
-    },
-    {
-      "name": "TITANPLACE Art 3",
-      "sources": ["https://raw.githubusercontent.com/TITANPLACE/overlay/main/lainah.png"],
-      "x": 1523,
-      "y": 1699
     }
   ],
   "whitelist": [
