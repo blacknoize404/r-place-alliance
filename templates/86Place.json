@@ -29,7 +29,11 @@
     {
       "name": "Puerto Rico",
       "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/PuertoRico.json"
-    }
+    },
+    {
+      "name": "Cuba",
+      "url": "https://raw.githubusercontent.com/blacknoize404/r-place-alliance/master/templates/Cuba.json"
+    },
   ],
   "blacklist": []
 }
