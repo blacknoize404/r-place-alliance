@@ -6,13 +6,13 @@
       "name": "TITANPLACE Art 1",
       "sources": ["https://cdn.discordapp.com/attachments/1132013033271607403/1132854155137011762/floch.png"],
       "x": 1668,
-      "y": 1490
+      "y": 990
     },
     {
       "name": "TITANPLACE Art 2",
       "sources": ["https://raw.githubusercontent.com/TITANPLACE/overlay/main/ereh.png"],
       "x": 806,
-      "y": 1250
+      "y": 750
     }
   ],
   "whitelist": [
