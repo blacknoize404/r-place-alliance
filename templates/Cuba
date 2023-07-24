@@ -1,0 +1,21 @@
+{
+  "faction": "Cuba",
+  "contact": "https://discord.gg/jv7FMhAW",
+  "templates": [
+    {
+      "name": "Cuba Art 1",
+      "sources": [
+        "https://i.imgur.com/KBw9q0j.jpeg?width=77&height=15"
+      ],
+      "x": 1618,
+      "y": 974
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "/r/EightySix",
+      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/86Place.json"
+    }
+  ],
+  "blacklist": []
+}
